@@ -49,3 +49,10 @@ section h1 {
 body div {
   padding: 1rem;
 }
+
+footer {
+  border-top: solid 1px white;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
