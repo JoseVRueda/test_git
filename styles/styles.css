@@ -59,3 +59,15 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
+img {
+  width: 30px;
+  height: auto;
+  object-fit: contain;
+}
+
+.logo_title {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
